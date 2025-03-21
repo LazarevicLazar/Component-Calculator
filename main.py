@@ -8,7 +8,7 @@ from diode import DiodeTab
 def main():
     root = tk.Tk()
     root.title("Component Calculator")
-    root.geometry("450x650")
+    root.geometry("350x350")
 
     notebook = ttk.Notebook(root)
     notebook.pack(fill=tk.BOTH, expand=1)

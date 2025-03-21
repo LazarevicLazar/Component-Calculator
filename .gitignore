@@ -24,4 +24,12 @@ Thumbs.db  # Windows
 *.log
 *.tmp
 
+# Build files
+dist/
+build/
+icons/
+*.exe
+*.ico
 
+# Spec files
+*.spec

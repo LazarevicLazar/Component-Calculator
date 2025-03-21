@@ -47,7 +47,7 @@ A Python-based GUI application for calculating the values of resistors, capacito
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Component-Calculator.git
+   git clone https://github.com/LazervicLazar/Component-Calculator.git
    cd Component-Calculator
    ```
 
